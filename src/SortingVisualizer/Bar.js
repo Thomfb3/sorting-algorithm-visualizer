@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 
 
-function Bar({ value, width }) {
+function Bar({ value, width, active }) {
 
     return (
         <div

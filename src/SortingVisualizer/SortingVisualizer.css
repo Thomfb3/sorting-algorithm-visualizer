@@ -31,3 +31,15 @@
 .Array-bar:hover .Array-bar-tooltip {
     visibility: visible;
 }
+
+
+.Bar-enter {
+}
+.Bar-enter-active {
+}
+.Bar-exit {
+}
+.Bar-exit-active {
+    background-color: red; 
+    transition: all 700ms ease-out;
+}
